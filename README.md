@@ -1,4 +1,3 @@
-# ds-project4
 # Multimodal House Price Regression (Tabular + Satellite Imagery)
 
 ## Overview
